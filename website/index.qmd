@@ -1,0 +1,14 @@
+---
+title: "website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+HELLO
+
+* This is an example of a bulleted list with math 
+* Here is an in-line math equation $f(x)=\frac{e^{x^2}}{2}$
+
+$$g(x)=x^n \rightarrow \frac{\partial g}{\partial x}=n x^{n-1}$$
